@@ -7,7 +7,7 @@ export default defineConfig({
 
 server: {
   host: '0.0.0.0',
- //allowedHosts: ["terremoto.onrender.com"]
+ allowedHosts: ["https://my-react-map-zki3.onrender.com"]
 }
 
 
