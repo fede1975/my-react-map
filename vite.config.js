@@ -7,7 +7,7 @@ export default defineConfig({
 
 server: {
   host: '0.0.0.0',
- allowedHosts: ["https://my-react-map-zki3.onrender.com"]
+ allowedHosts: ["my-react-map-zki3.onrender.com"],
 }
 
 
